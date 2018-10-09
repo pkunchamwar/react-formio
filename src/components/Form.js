@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import AllComponents from 'formiojs/components';
 import Components from 'formiojs/components/Components';
 Components.setComponents(AllComponents);
-import Form from 'formiojs/Form';
+import {Form} from 'formiojs';
 
 export default class extends Component {
   static defaultProps = {
