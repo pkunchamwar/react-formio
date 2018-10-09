@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formio/react-formio.git"
+    "url": "git+https://github.com/pkunchamwar/react-formio.git"
   },
   "keywords": [
     "React",
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/formio/react-formio#readme",
   "dependencies": {
     "babel-polyfill": "^6.23.0",
-    "formiojs": "^4.0.0-alpha.7",
+    "formiojs": "git+https://github.com/pkunchamwar/formiojs",
     "prop-types": "^15.5.7",
     "react-bootstrap": "^0.31.0",
     "recompose": "^0.23.5",
